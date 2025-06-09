@@ -2,7 +2,7 @@
 
 Submitted by: **Wei Hong Lin**
 
-This web app: **insert description**
+This web app: **Modern Jewelry Shop**
 
 Time spent: **X** hours spent in total
 
