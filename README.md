@@ -33,7 +33,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.youtube.com/watch?v=3cTLomSWQ2w' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='https://www.youtube.com/watch?v=3cTLomSWQ2w' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+https://www.youtube.com/watch?v=3cTLomSWQ2w
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with giphy
